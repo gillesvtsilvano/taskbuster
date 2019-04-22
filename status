@@ -1,0 +1,16 @@
+
+
+TASKBUSTER DJANGO TUTORIAL
+
+Part I – Working environment and start a Django Project OK
+Part II – Settings files and Version Control OK
+Part III – Create a Home Page with TDD, Staticfiles and Templates settings
+Part IV – Template Inheritance, Website files and Testing with coverage
+Part V – Internationalization and Localization. Languages and Time zones
+Part VI – Documenting the TaskBuster Django Boilerplate
+Part VII.a – Install and Configure PostgreSQL
+Part VII.b – Install and Configure MySQL for Django
+Part VIII – User Authentication with a Google Account using Django Allauth
+Part VIII.b – User Authentication with Twitter using Django Allauth
+Part IX – Model creation, OneToOne relations, signals and the Django Admin
+Part X – Model creation, ForeignKey relations, testing and the Django Admin
